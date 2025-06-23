@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MnqobiSD2018/Book-Library-Management-System-Frontend/main/public/logo.png" alt="Library Logo" width="150"/>
-</p>
 
-<h1 align="center">📚 Book Library Management System</h1>
+
+<h1 align="center"> Book Library Management System</h1>
 
 <p align="center">
   A full-stack MERN application for managing a digital library — complete with member tracking, book inventory, lending/fining workflows, reports, and secure librarian access.
@@ -112,16 +110,9 @@ Build a full-featured **Library Management System** with:
 
 - Searchable book/member interfaces
 - Filtering for overdue loans
-- Exportable reports (CSV/PDF)
 - Responsive and intuitive UI for librarians
 - Dashboard with quick stats (total books, members, active loans)
 
 ---
 
-## 📸 UI Previews (Optional)
 
-> Add screenshots or demo GIFs here to showcase the app in action.
-
----
-
-## 🛠️ Setup
