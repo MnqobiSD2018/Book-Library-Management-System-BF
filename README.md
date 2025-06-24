@@ -102,8 +102,7 @@ Build a full-featured **Library Management System** with:
 - 🔗 **Frontend Commit History**  
   [View on GitHub](https://github.com/MnqobiSD2018/Book-Library-Management-System-Frontend)
 
-- ⚙️ **Backend Repository** (optional link to include)
-
+- ⚙️ **Backend Repository** this repo
 ---
 
 ## 💡 Features to Consider
